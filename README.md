@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Skylar, or Skye</h1>
+<h1 align="center">Hi! I'm Skye</h1>
 <h3 align="center">A passionate tech enthusiast with more servers than budget</h3>
 
 - 🌱 I’m currently learning **all the changes since 10 years of no coding, a fresh restart!**
