@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/skyeWuffo](github.com/skyeWuffo)
 
-- 🎙️ Amateur Radio Callsign **N8SKY**
+- 🎙️ Amateur Radio Callsign: **N8SKY**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
